@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page - Experimento Lean Startup</title>
+
+    <!-- Analítica - Counter.dev -->
+    <script src="https://cdn.counter.dev/script.js" 
+        data-id="12c29794-423c-4640-a230-b79360744060" 
+        data-utcoffset="-5"></script>
+
+    <!-- Estilos -->
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Tu solución rápida y sencilla para microempresas</h1>
+        <h2>Ayudamos a emprendedores a promocionar su negocio sin perder tiempo</h2>
+    </header>
+
+    <main>
+        <!-- Imagen central -->
+        <img src="publicidad.jpg" alt="Imagen del servicio">
+
+        <!-- Descripción breve -->
+        <p>
+            Hemos creado una forma simple y rápida para que los microempresarios generen 
+            publicidad sin esfuerzo. Una solución lista en minutos y sin complicaciones.
+        </p>
+
+        <!-- Botón CTA -->
+        <a class="boton" href="TU_LINK_A_GOOGLE_FORMS" target="_blank">
+            Quiero más información
+        </a>
+    </main>
+
+</body>
+</html>
+
