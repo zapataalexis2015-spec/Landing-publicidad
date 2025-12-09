@@ -27,17 +27,18 @@
 
         <!-- Descripción breve -->
         <p>
-            Obtén una guía sobre la importancia de la publicidad en los negocios
-            Registrate con el botón de abajo y obtenlo gratis.
+            Obtén una guía gratis sobre la importancia de la publicidad en los negocios.
+            
         </p>
 
         <!-- Botón CTA -->
         <a class="boton" href="TU_LINK_A_GOOGLE_FORMS" target="_blank">
-            Quiero más información
+            Más información aquí
         </a>
     </main>
 
 </body>
 </html>
+
 
 
