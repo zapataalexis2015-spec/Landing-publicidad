@@ -27,8 +27,8 @@
 
         <!-- Descripción breve -->
         <p>
-            Hemos creado una forma simple y rápida para que los microempresarios generen 
-            publicidad sin esfuerzo. Una solución lista en minutos y sin complicaciones.
+            Obtén una guía sobre la importancia de la publicidad en los negocios
+            Registrate con el botón de abajo y obtenlo gratis.
         </p>
 
         <!-- Botón CTA -->
@@ -39,4 +39,5 @@
 
 </body>
 </html>
+
 
